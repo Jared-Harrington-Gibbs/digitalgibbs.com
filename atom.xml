@@ -4,19 +4,20 @@
     <title> - Articles</title>
     <description>Security and Automation at the forefront</description>
     <link>
-    http://localhost:4000</link>
+    </link>
     
       
       <item>
         <title>Jared</title>
         
           <description>&lt;p&gt;This is just a test page while I get familiar with Jekyll and Jasper&lt;/p&gt;
+
 </description>
         
         <pubDate>Sun, 24 Nov 2019 00:00:00 -0500</pubDate>
         <link>
-        http://localhost:4000/jared</link>
-        <guid isPermaLink="true">http://localhost:4000/jared</guid>
+        /jared</link>
+        <guid isPermaLink="true">/jared</guid>
       </item>
       
     
